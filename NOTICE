@@ -1,0 +1,12 @@
+claude-behavior-skill
+
+Derived in part from "andrej-karpathy-skills" by forrestchang / multica-ai
+(https://github.com/multica-ai/andrej-karpathy-skills), which declares an MIT
+licence in its skill and plugin manifests. The upstream repository did not
+include a separate LICENSE file when this was written (commit 2c60614,
+2026-04-20). That repository in turn credits Andrej Karpathy's public
+observations on LLM coding pitfalls as its source.
+
+The four upstream principles (Think Before Coding, Simplicity First, Surgical
+Changes, Goal-Driven Execution) are adapted and reworded here. Everything else
+is original to this repository.

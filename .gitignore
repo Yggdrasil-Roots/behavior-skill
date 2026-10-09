@@ -1,0 +1,5 @@
+# Personal scope lists and backups must never be committed
+behavior-scope.md
+*.bak
+*.bak.*
+.env
