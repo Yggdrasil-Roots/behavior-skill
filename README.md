@@ -1,5 +1,8 @@
 # claude-behavior-skill
 
+> [!IMPORTANT]
+> **Generic by design: you will need to modify this before use.** The rules and templates are general, but the examples use placeholder serials, addresses and domains, the standing scope list is a blank template, and the system-administration notes reflect one person's working habits. All personal and sensitive details (names, locations, addresses, hostnames, device identifiers, credentials and personal notes) have been removed or replaced with placeholders. Expect to adapt names, paths, addresses, hardware assumptions and settings to your own environment, and review everything before you run or rely on it.
+
 A drop-in behavior skill for Claude Code. It targets four recurring failures:
 
 1. **Over-engineering:** abstractions, options and code nobody asked for.
